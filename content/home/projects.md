@@ -2,11 +2,11 @@
 # Projects widget.
 # Note: this widget will only display if `content/project/` contains projects.
 
-date = "2016-04-20T00:00:00"
+date = "2017-04-03T00:00:00"
 draft = false
 
 title = "Projects"
-subtitle = ""
+subtitle = "Project Themes"
 widget = "projects"
 
 # Order that this section will appear in.

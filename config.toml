@@ -1,6 +1,6 @@
 baseurl = "http://workshop.bcdata.ca"
 title = "BC Data"
-copyright = "&copy; 2016 Institue of Applied Mathematics"
+copyright = "&copy; 2017 Institue of Applied Mathematics"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -154,13 +154,18 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "More details"
-  url = "#details"
+  name = "Info"
+  url = "#info"
   weight = 2
 
 [[menu.main]]
-  name = "Prequel"
-  url = "#prequel"
+  name = "Schedule"
+  url = "#schedule"
+  weight = 4
+
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
   weight = 3
 
 # [[menu.main]]

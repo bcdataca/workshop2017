@@ -1,11 +1,11 @@
 +++
-date = "2017-01-01T00:00:00"
-title = "Example Talk"
+date = "2017-07-31T00:00:00"
+title = "Registration deadline"
 abstract = ""
 abstract_short = ""
-event = "Hugo Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event = "Conference registration form"
+event_url = "#"
+location = "Online"
 
 selected = false
 math = true
@@ -21,4 +21,5 @@ caption = "My caption :smile:"
 
 +++
 
-Embed your slides or video here using [shortcodes](https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. 
+The deadline for registration for the workshop is to be determined. To
+register for the workshop, please visit the link above. 

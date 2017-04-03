@@ -1,0 +1,24 @@
++++
+date = "2017-08-14T00:00:00"
+title = "On data science methods"
+abstract = ""
+abstract_short = ""
+event = "BC Data Workshop"
+event_url = "#home"
+location = "ESB 2012"
+
+selected = false
+math = true
+
+url_pdf = ""
+url_slides = ""
+url_video = ""
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
+
++++
+
+This is a talk with details. 
