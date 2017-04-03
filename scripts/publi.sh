@@ -27,3 +27,11 @@ hugo
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publi.sh)"
+
+read -erp "Push gh-pages to origin? (y/n): " doPushToRemote
+
+if [[ "$doPushToRemote" == "y" ]]
+then
+    echo "Pushing to remote..."
+    git push origin gh-pages
+fi

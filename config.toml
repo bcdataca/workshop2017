@@ -1,4 +1,4 @@
-baseurl = "http://workshop.bcdata.ca"
+baseurl = "http://workshop.bcdata.ca/2017"
 title = "BC Data"
 copyright = "&copy; 2017 Institue of Applied Mathematics"
 theme = "academic"
