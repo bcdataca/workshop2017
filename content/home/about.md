@@ -47,6 +47,6 @@ This workshop will give students experience with data science tools &mdash;
 such as working with large data sets, statistical inference, and machine
 learning &mdash; that will be helpful in their research, as well as in their
 career options after graduation. See below for
-[additional information](#details).
+[additional information](#info).
 
 To register, please visit [this link](http://www.google.ca). 

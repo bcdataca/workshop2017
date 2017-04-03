@@ -24,6 +24,10 @@ rm -rf public/*
 
 echo "Generating site"
 hugo
+mkdir public/2017
+shopt -s extglob
+mv ./public/!(2017|.git) ./public/2017/
+cp CNAME ./public/
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publi.sh)"
