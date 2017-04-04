@@ -1,5 +1,5 @@
 +++
-date = "2017-04-04T12:00:00"
+date = "2017-04-04T10:00:00"
 draft = false
 tags = ["academic", "workshop", "description", "data", "science", "linear", "algebra", "scientific", "computing"]
 title = "The 2017 IAM Data Science Workshop"

@@ -28,11 +28,12 @@ Computational work will be done with Jupyter notebooks using
 [syzygy.ca](https://ubc.syzygy.ca). Participants will have the opportunity to
 work with big data, and learn subsequent analysis motifs using machine learning, data clustering, parameter fitting, and other techniques. 
 
-There will be a pre-workshop to cover intermediate-level background in
-scientific computing, linear algebra, statistical methods and optimization. For
-more information, see the [pre-workshop description](./post/prequel-description).
+There will be a short course in linear algebra and software tools prior to the
+workshop to cover background material in scientific computing, linear algebra,
+statistical methods and optimization. For more information, see the
+[pre-workshop description](./post/prequel-description).
 
-# Project Overview
+# Projects Overview
 
 There will be several data sets used in the workshop. We will add in the
 details as they become finalized. For full project/data details, visit the
@@ -40,7 +41,7 @@ details as they become finalized. For full project/data details, visit the
 
 * Video camera compressed bitrate analysis, presented by Roger Donaldson of
 Midvale Applied Mathematics
-* Incident and permit data, presented by Soyean Kim of BC Safety Authority
+* Incident and permit data, presented by Soyean Kim of [BC Safety Authority](https://www.safetyauthority.ca/)
 
 
 
