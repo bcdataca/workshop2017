@@ -15,12 +15,33 @@ weight = 2
 
 <!-- The 2017 Workshop in Data Science is aimed at graduate students in the Institute of Applied Mathematics at UBC, and students at SFU with similar interests, who have strong mathematical skills but little or no experience with "data science". The workshop is designed to give this type of student some experience that will be helpful in their research (if it involves large data sets) and in their career options after graduation.  -->
 
-The workshop will include lectures on the theory of algorithms used in data science, and the use of freeware implementations of the methods. Data sets from industry and government will be introduced by guest speakers and used as examples. Each data set will lead to a capstone project. Computational work will be done with Jupyter notebooks. Participants will learn common data structures and how to reorganize and “clean” data; and subsequent analysis using machine learning, data clustering, parameter fitting, and other techniques. 
+# Summary
+
+The two-week workshop will include both theoretical and practical
+components, featuring lectures on the theory of algorithms used in data science
+and the freeware implementation of these methods. In the first week, data sets
+from industry and government will be introduced by guest speakers and used as
+examples data sets for mini-projects. Each data set will lead to a capstone
+project in the second week.
+
+Computational work will be done with Jupyter notebooks using
+[syzygy.ca](https://ubc.syzygy.ca). Participants will have the opportunity to
+work with big data, and learn subsequent analysis motifs using machine learning, data clustering, parameter fitting, and other techniques. 
+
+There will be a pre-workshop to cover intermediate-level background in
+scientific computing, linear algebra, statistical methods and optimization. For
+more information, see the [pre-workshop description](./post/prequel-description).
+
+# Project Overview
 
 There will be several data sets used in the workshop. We will add in the
-details as they become finalized:
+details as they become finalized. For full project/data details, visit the
+[projects](#projects) section.
 
 * Video camera compressed bitrate analysis, presented by Roger Donaldson of
 Midvale Applied Mathematics
 * Incident and permit data, presented by Soyean Kim of BC Safety Authority
+
+
+
 
