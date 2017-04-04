@@ -23,11 +23,12 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
-hugo
-mkdir public/2017
+hugo -d public/2017
+# mkdir public/2017
 shopt -s extglob
 mv ./public/!(2017|.git) ./public/2017/
 cp CNAME ./public/
+cp index.redirect ./public/index.html
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publi.sh)"
