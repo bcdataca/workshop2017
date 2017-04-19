@@ -2,10 +2,10 @@
 # Recent and Upcoming Talks widget.
 
 date = "2017-04-03T00:00:00"
-draft = true
+draft = false
 
 title = "Schedule"
-subtitle = "Upcoming dates"
+subtitle = "Upcoming dates and workshop schedule"
 widget = "talks"
 
 # Order that this section will appear in.
@@ -19,3 +19,4 @@ detailed_list = false
 
 +++
 
+Check back soon for more details. 
