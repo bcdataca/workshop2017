@@ -53,5 +53,7 @@ visit the [posts](#posts) section or see below for additional information.
 
 # Register
 
-Complete [this form](https://goo.gl/forms/dowiyIBurStIvvEq1) to register for the IAM Data Science workshop.
+Complete [this form](https://goo.gl/forms/dowiyIBurStIvvEq1) to register for
+the IAM Data Science workshop and the optional pre-workshop on software
+carpentry and linear algebra basics.
 
