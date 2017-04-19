@@ -1,5 +1,5 @@
 +++
-date = "2017-07-31T00:00:00"
+date = "2017-07-15T00:00:00"
 title = "Registration deadline"
 abstract = ""
 abstract_short = ""
@@ -15,11 +15,11 @@ url_slides = ""
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
 
-The deadline for registration for the workshop is to be determined. To
-register for the workshop, please visit the link above. 
+The deadline for registration for the workshop is 15 July 2017. To
+register for the workshop and the pre-workshop, please visit the link above. 

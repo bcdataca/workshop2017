@@ -1,6 +1,6 @@
 +++
 date = "2017-08-14T00:00:00"
-title = "On data science methods"
+title = "Workshop begins"
 abstract = ""
 abstract_short = ""
 event = "BC Data Workshop"
@@ -15,10 +15,10 @@ url_slides = ""
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
 
-This is a talk with details. 
+The workshop begins on August 14. Check back soon for more details. 
