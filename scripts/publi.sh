@@ -25,8 +25,8 @@ rm -rf public/*
 echo "Generating site"
 hugo -d public/2017
 # mkdir public/2017
-shopt -s extglob
-mv ./public/!(2017|.git) ./public/2017/
+# shopt -s extglob
+# mv ./public/!(2017|.git) ./public/2017/
 cp CNAME ./public/
 cp index.redirect ./public/index.html
 
