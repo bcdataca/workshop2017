@@ -31,12 +31,13 @@ cp CNAME ./public/
 cp index.redirect ./public/index.html
 
 echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "Publishing to gh-pages (publi.sh)"
+read -erp "Commit Message: " commitMessage
+cd public && git add --all && git commit -m "(publi.sh -> gh-pages) $commitMessage"
 
 read -erp "Push gh-pages to origin? (y/n): " doPushToRemote
 
 if [[ "$doPushToRemote" == "y" ]]
 then
-    echo "Pushing to remote..."
+    echo "Pushing to remote..."    
     git push origin gh-pages
 fi
