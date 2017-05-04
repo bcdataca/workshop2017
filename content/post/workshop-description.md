@@ -2,7 +2,7 @@
 date = "2017-04-04T10:00:00"
 draft = false
 tags = ["academic", "workshop", "description", "data", "science", "linear", "algebra", "scientific", "computing"]
-title = "The 2017 IAM Data Science Workshop"
+title = "The 2017 bcdata Data Science Workshop"
 math = true
 summary = """
 Continue reading for a full description of the workshop, a list of confirmed speakers and mentors, and a list of useful links. 
