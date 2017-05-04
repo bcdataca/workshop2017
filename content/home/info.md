@@ -4,7 +4,7 @@
 date = "2017-03-29T00:00:00"
 draft = false
 
-title = "Additional Information"
+title = "Description"
 subtitle = ""
 widget = "custom"
 
