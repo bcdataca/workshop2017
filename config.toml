@@ -1,8 +1,8 @@
 baseurl = "http://workshop.bcdata.ca/2017"
 relativeurls = false
 canonifyurls = false
-title = "BC Data"
-copyright = "&copy; 2017 Institue of Applied Mathematics"
+title = "bcdata"
+copyright = "&copy; 2017 bcdata"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
