@@ -128,7 +128,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:aberk@math.ubc.ca"
+    link = "mailto:workshop2017@iam.ubc.ca"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/bcdataca"
 
   [[params.social]]
     icon = "external-link"
@@ -140,10 +145,6 @@ defaultContentLanguageInSubdir = false
   #   icon_pack = "ai"
   #   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/bcdataca"
 
 
 # Navigation Links

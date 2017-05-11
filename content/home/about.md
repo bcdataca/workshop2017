@@ -35,10 +35,11 @@ weight = 1
  
 +++
 
-# Goal
+# About
 
 Targeted at graduate students in the Institute of Applied Mathematics at UBC
-and students at SFU with similar interests, the 2017 bcdata Data Science Workshop has two goals: to bring together top researchers, industry
+and students at SFU with similar interests, the 2017 bcdata Data Science
+Workshop has two goals: to bring together top researchers, industry
 professionals and BC Math students to tackle interesting research and industry
 problems; and to develop data science literacy in students with strong
 mathematical skills who may have little or no previous experience in the realm
@@ -53,6 +54,6 @@ visit the [posts](#posts) section or see below for additional information.
 # Register
 
 Complete [this form](https://goo.gl/forms/dowiyIBurStIvvEq1) to register for
-the bcdata Data Science workshop and the optional pre-workshop on software
-carpentry and linear algebra basics.
+the bcdata Data Science workshop (14&ndash;25 Aug) and the optional
+pre-workshop on software carpentry and linear algebra basics (9&ndash;11 Aug).
 
