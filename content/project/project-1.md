@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "proj/video-compression/video-camera.jpeg"
-caption = "Compressed bitrate analysis"
+caption = "Compressed bitrate analysis project. "
 
 +++
 
