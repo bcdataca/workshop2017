@@ -39,10 +39,10 @@ There will be several data sets used in the workshop. We will add in the
 details as they become finalized. For full project/data details, visit the
 [projects](#projects) section.
 
-* Video camera compressed bitrate analysis, presented by Roger Donaldson of
-Midvale Applied Mathematics
-* Incident and permit data, presented by Soyean Kim of [BC Safety Authority](https://www.safetyauthority.ca/)
-
+* Data-driven modeling of video compression  
+  Roger Donaldson, Ph.D. (Midvale Applied Mathematics)
+* A risk-based platform for accident prevention  
+  Soyean Kim, P.Stat. ([BC Safety Authority](https://www.safetyauthority.ca/))
 
 
 

@@ -20,7 +20,7 @@ The workshop will include lectures on the theory of algorithms used in data scie
 There will be several data sets used in the workshop. We will add in the
 details as they become finalized:
 
-* Video camera compressed bitrate analysis, presented by Roger Donaldson of
-Midvale Applied Mathematics
-* Incident and permit data, presented by Soyean Kim of BC Safety Authority
-
+* Data-driven modeling of video compression  
+  Roger Donaldson, Ph.D. (Midvale Applied Mathematics)
+* Inferring risk evaluation from incident and permitting data  
+  Soyean Kim, P.Stat. ([BC Safety Authority](https://www.safetyauthority.ca/))

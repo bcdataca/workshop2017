@@ -9,7 +9,7 @@ title = "A Risk-based Platform for Accident Prevention"
 summary = "Soyean Kim<br />BC Safety Authority"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "proj/bcsa/building-components.jpeg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "proj/bcsa/chairlift.jpeg"
 caption = "A risk-based platform for accident prevention."
 
 +++
