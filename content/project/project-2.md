@@ -3,7 +3,7 @@
 date = "2017-04-03"
 
 # Project title.
-title = "A Risk-based Platform for Accident Prevention"
+title = "A risk-based platform for accident prevention"
 
 # Project summary to display on homepage.
 summary = "Soyean Kim<br />BC Safety Authority"
