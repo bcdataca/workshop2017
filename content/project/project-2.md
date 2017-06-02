@@ -28,7 +28,7 @@ caption = "A risk-based platform for accident prevention."
 
 +++
 
-# Summary
+## Summary
 
 BC Safety Authority’s accident prevention strategy follows a risk
 based platform, called “bow tie” for ongoing management and prevention

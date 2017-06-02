@@ -28,7 +28,7 @@ caption = "Compressed bitrate analysis project. "
 
 +++
 
-# Summary
+## Summary
 
 Despite our hand in their design, and hence their seemingly deterministic
 operation, electronic systems grow ever more complex and are often most simply
