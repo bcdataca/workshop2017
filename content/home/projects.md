@@ -33,5 +33,16 @@ view = 1
   name = "Modeling"
   tag = ".modeling"
 
+[[filter]]
+  name = "Customer Analytics"
+  tag = ".analytics"
+
+[[filter]]
+  name = "Video Analytics"
+  tag = ".video-analytics"
+
+[[filter]]
+  name = "Image Processing"
+  tag = ".image-processing"
 +++
 

@@ -13,8 +13,6 @@ weight = 2
  
 +++
 
-<!-- The 2017 Workshop in Data Science is aimed at graduate students in the Institute of Applied Mathematics at UBC, and students at SFU with similar interests, who have strong mathematical skills but little or no experience with "data science". The workshop is designed to give this type of student some experience that will be helpful in their research (if it involves large data sets) and in their career options after graduation.  -->
-
 # Summary
 
 The two-week workshop will include both theoretical and practical
@@ -43,6 +41,9 @@ details as they become finalized. For full project/data details, visit the
   Roger Donaldson, Ph.D. (Midvale Applied Mathematics)
 * A risk-based platform for accident prevention  
   Soyean Kim, P.Stat. ([BC Safety Authority](https://www.safetyauthority.ca/))
-
+* Predicting and Improving timeliness and personalization of Mobile Engagement messages
+Boris Lau ([Mobify](https://www.mobify.com/))
+* Project Hop: Real-time agriculutural sensing  
+Nathan Vadeboncoeur, SmartSoil 
 
 

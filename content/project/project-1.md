@@ -13,8 +13,7 @@ image_preview = "proj/video-compression/drone-camera.jpeg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["compressed", "bitrate", "video", "data", "modelling", "modeling"]
-
+tags = ["compressed", "bitrate", "video", "data", "modelling", "modeling", "machine-learning", "video-analytics", "image-processing"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
