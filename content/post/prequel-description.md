@@ -9,9 +9,9 @@ summary = """
 Join us for a three-day mini-workshop covering background material in software carpentry, linear algebra and scientific computing.
 """
 
-#[header]
-#image = "headers/getting-started.png"
-#caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+[header]
+image = "headers/prequel-header.png"
+caption = "Introduction to data science and computing tools featuring PIMS Jupyter Hub and Python"
 
 +++
 

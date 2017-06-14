@@ -41,7 +41,7 @@ details as they become finalized. For full project/data details, visit the
   Roger Donaldson, Ph.D. (Midvale Applied Mathematics)
 * A risk-based platform for accident prevention  
   Soyean Kim, P.Stat. ([BC Safety Authority](https://www.safetyauthority.ca/))
-* Predicting and Improving timeliness and personalization of Mobile Engagement messages
+* Timeliness &amp; personalization of Mobile Engagement messages  
 Boris Lau ([Mobify](https://www.mobify.com/))
 * Project Hop: Real-time agriculutural sensing  
 Nathan Vadeboncoeur, SmartSoil 
