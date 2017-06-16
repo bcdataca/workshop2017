@@ -47,6 +47,8 @@ here](https://goo.gl/maps/aVGFmNH1huB2) for a map.
   Data Scientist at BuildDirect Technologies
 * **Zak Islam**  
   Sr. Manager, AWS Messaging at Amazon Web Services
+* **Peter Gorniak**, Ph.D. (MIT)  
+  Co-founder &amp; CSO, Tideline Data
 
 
 ## More details
