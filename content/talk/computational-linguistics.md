@@ -12,7 +12,7 @@ abstract = "To be confirmed."
 title = "Computational linguistics"
 url_slides = ""
 url_video = ""
-location = ""
+location = "UBC Robson Square"
 highlight = true
 
 [header]
