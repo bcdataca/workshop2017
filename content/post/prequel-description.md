@@ -11,7 +11,7 @@ Join us for a three-day mini-workshop covering background material in software c
 
 [header]
 image = "headers/prequel-header.png"
-caption = "Introduction to data science and computing tools featuring PIMS Jupyter Hub and Python"
+caption = "Image source: [scikit-learn classifer comparison](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)"
 
 +++
 

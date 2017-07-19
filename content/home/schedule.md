@@ -19,4 +19,4 @@ detailed_list = false
 
 +++
 
-Check back soon for more details. 
+
