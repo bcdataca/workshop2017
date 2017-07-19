@@ -31,6 +31,7 @@ caption = "Data-driven genomics project"
 
 +++
 
+
 ## Summary
 
 Different cell types in humans possess approximately the same genome despite
@@ -52,6 +53,9 @@ relevant protein binding motifs in DNA sequences from training data.
 
 Challenges include building an interpretable and explainable ConvNet to extract biological insights from our genome-wide regulatory landscape data sets;
 and mapping DNA sequences to a vector space.
+
+
+<img src="../../img/proj/altius/genes.png" />
 
 [1] Alberts B, *et al*. Molecular Biology of the Cell, 4th ed. (2002)  
 [2] Thurman RE, Rynes E, Humbert R, Vierstra J, Maurano MT, Haugen E, Sheffield NC, Stergachis AB, Wang H, Vernot B, Garg K. The accessible chromatin landscape of the human genome. Nature. 2012 Sep 6;489(7414):75.  
