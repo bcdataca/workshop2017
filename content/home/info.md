@@ -44,6 +44,6 @@ details as they become finalized. For full project/data details, visit the
 * Project Hop: Real-time agriculutural sensing  
 Nathan Vadeboncoeur (SmartSoil)
 * Elucidating enhancer-promoter gene expression using ConvNets  
-Cory Simon, Ph.D. &amp; Wouter Meulman, Ph.D. ([Altius Institute](https://altius.org))
+Cory Simon, Ph.D. &amp; Wouter Meuleman, Ph.D. ([Altius Institute](https://altius.org))
 
 
