@@ -16,7 +16,8 @@ image_preview = "proj/altius.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "predictive", "analytics"]`
-tags = ["predicting", "improving", "timeliness", "personalization", "mobile-engagement", "messages", "analytics", "mobify", "machine-learning"]
+tags = ["biomedical", "genetics", "convnets", "convolution", "cnn",
+"machine-learning", "genomics", "promoter", "gene", "sequence", "inference"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

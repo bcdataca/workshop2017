@@ -26,20 +26,12 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Machine Learning"
-  tag = ".machine-learning"
+  name = "Inference"
+  tag = ".inference"
 
 [[filter]]
   name = "Modeling"
   tag = ".modeling"
-
-[[filter]]
-  name = "Customer Analytics"
-  tag = ".analytics"
-
-[[filter]]
-  name = "Video Analytics"
-  tag = ".video-analytics"
 
 [[filter]]
   name = "Image Processing"
