@@ -29,15 +29,23 @@ tools for data scientists.
 
 ## Monday
 ### Linear and Logistic regression.
-We will understand the first ML algorithm Linear Regression. We talk about train-test-split, normalization of the data, the problem of overfitting and regularization. A short code example shows how to use these tools in practice (using scikit-learn). Introduction to classification with metrics, Logistic Regression and coding example.
+We will understand the first machine learning algorithm Linear Regression. We
+talk about train-test-split, normalization of the data, the problem of
+overfitting and regularization. A short code example shows how to use these
+tools in practice (using scikit-learn). We introduce classification in contrast
+to regression, and discuss key metrics like accuracy, precision and recall. We
+talk about the Logistic Regression classifier and show a short code example.
 
 ## Tuesday 
-### Important classifiers and clustering methods.
-Decision Trees, ensembling methods. In addition: We learn K-Nearest-Neighbours and how to cluster data using KMeans. In a short code example the application of these methods is demonstrated.
+### Important classifiers.
+The classifiers Decision Trees and K-Nearest-Neighbours will be covered, as
+well as ensemble methods like Bagging and Random Forests. In a short code
+example the application of the classifiers is demonstrated (scikit-learn).
 
 ## Wednesday
 ### Neural Networks.
-This lecture is about Neural Networks, as well as feature engineering and a short code example in TensorFlow.
+This lecture is about Neural Networks with various add-ons, as well as feature
+engineering and a short code example in TensorFlow.
 
 ## Thursday
 ### Hypothesis testing and experimental design.
