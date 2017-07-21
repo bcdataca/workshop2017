@@ -34,5 +34,5 @@ In the mornings of the second week of the workshop, we will host advanced lectur
 
 **Speaker:** Dr. Bhushan Gopaluni ([DAIS Lab](http://dais.chbe.ubc.ca/))
 
-### [Computational Linguistics](../../talk/computational-linguistics)
+### [Data Science in Linguistics: Extracting Phonotactics from Word Lists](../../talk/extracting-phonotactics)
 **Speaker:** Dr. Paul Tupper ([SFU Mathematics](http://people.math.sfu.ca/~tupper/Homepage/Welcome.html))

@@ -45,6 +45,8 @@ here](https://goo.gl/maps/aVGFmNH1huB2) for a map.
   Technical Consultant at Midvale Applied Mathematics Inc.
 * **Bernard Chan**, Ph.D. Applied Mathematics (Western University)
   Data Scientist at BuildDirect Technologies
+* **Megan McCorquodale**, M.Sc. Statistics (SFU)  
+  Data Scientist, Absolute Software
 * **Zak Islam**  
   Sr. Manager, AWS Messaging at Amazon Web Services
 * **Peter Gorniak**, Ph.D. (MIT)  

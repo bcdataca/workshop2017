@@ -29,7 +29,7 @@ event_url = "../../post/advanced-topics/"
 event = "Advanced topics in data science"
 title = "Inferring the Past for Traits that Alter Speciation and Extinction"
 url_slides = ""
-date = "2017-08-22T10:00:00-07:00"
+date = "2017-08-22T11:00:00-07:00"
 url_video = ""
 
 [header]
