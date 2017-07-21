@@ -5,6 +5,7 @@ tags = ["academic", "prequel", "description", "linear", "algebra", "scientific",
 title = "IAM Short Course"
 #title = "A Short Course in Linear Algebra and Software Tools"
 math = true
+selected = true
 summary = """
 Join us for a three-day mini-workshop covering background material in software carpentry, linear algebra and scientific computing.
 """

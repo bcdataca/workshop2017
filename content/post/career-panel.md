@@ -11,7 +11,7 @@ options.
 """
 [header]
   caption = "panel discussion"
-  image = "microphone.jpg"
+  image = "microphone_wide.jpg"
 
 +++
 

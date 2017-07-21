@@ -7,6 +7,10 @@ summary = """
 Registration is nearly full! To reserve your spot, please complete [this Google form](https://goo.gl/forms/dowiyIBurStIvvEq1) before registration reaches capacityor closes on July 15.
 """
 math = false
+
+[header]
+caption = "Registration closes July 15th"
+image = "headers/railway.jpg"
 +++
 
 {{% alert note %}} Registration is now open! Please complete
