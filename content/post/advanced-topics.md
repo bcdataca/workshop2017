@@ -25,7 +25,7 @@ In the mornings of the second week of the workshop, we will host advanced lectur
 
 **Speaker:** Dr. Sarah Otto ([UBC Zoology](http://www.zoology.ubc.ca/~otto/))  
 
-### [Compressed Sensing and Applications](../../talk/compressed-sensing-and-applications)
+### [An Introduction to Compressed Sensing and Sparse Recovery Techniques](../../talk/compressed-sensing-and-applications)
 
 **Speaker:** Dr. Ben Adcock ([SFU Mathematics](https://benadcock.org/))
 
