@@ -21,9 +21,9 @@ Join us on **August 16th at 6:00 PM** for a career panel and reception/buffet
 for mathematicians who are contemplating non-academic career
 options.
 
-The panel includes at least 3 Math PhDs now working in industry, as
-well as a senior manager at Amazon who interfaces with (and hires!)
-mathematicians and computer scientists. The discussion will be
+The panel includes recent graduates in mathematics/statistics now working in
+industry, as well as a senior manager at Amazon who interfaces with (and
+hires!)  mathematicians and computer scientists. The discussion will be
 moderated by Lee Rippon, a graduate student at UBC.
 
 The Q&amp;A session will be followed by a reception and buffet dinner

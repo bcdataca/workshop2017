@@ -25,11 +25,10 @@ Join us on the evening of August 16th for a career panel and social
 for mathematicians who are contemplating non-academic career
 options.
 
-The panel includes several Math PhDs now working in industry,
-as well as a senior manager at Amazon who interfaces with &mdash; and
-hires &mdash; mathematicians and computer scientists. The Q&amp;A
-session will be followed by a social with complementary food and
-beverage.
+The panel includes recent graduates in mathematics/statistics now working in
+industry, as well as a senior manager at Amazon who interfaces with &mdash; and
+hires &mdash; mathematicians and computer scientists. The Q&amp;A session will
+be followed by a social with complementary food and beverage.
 
 This event will be held at the Mobify headquarters downtown, nearly
 adjacent to UBC Robson Square. Please [click
