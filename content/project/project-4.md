@@ -3,10 +3,10 @@
 date = "2017-06-14"
 
 # Project title.
-title = "Project Hop: Real-Time Agricultural Sensing"
+title = "High-Resolution Shoreline Data for Flood Protection and Environmental Conservation Project Hop: Real-Time Agricultural Sensing"
 
 # Project summary to display on homepage.
-summary = "Nathan Vadeboncoeur<br />SmartSoil"
+summary = "Nathan Vadeboncoeur<br />Smart Shores"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "proj/smartsoil/hops.jpg"
@@ -24,64 +24,71 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "proj/smartsoil/hops-header.jpg"
-caption = "Project Hop: real-time agricultural sensing."
+caption = "High-Resolution Shoreline Data for Flood Protection and Environmental Conservation Project Hop: Real-Time Agricultural Sensing."
 
 +++
 
 ## Summary
 
-We are working with hop farmers around the province to develop the
-world’s first beer terroir. Terroir is a term used in the wine
-industry that refers to the unique flavours and aromas of grapes from
-different regions. It’s what people are talking about when comparing a
-wine from BC with a similar one from France. We want to work with you
-to develop terroir for beer. Instead of using grapes we are focusing
-on hops, one of the main ingredients in beer.
- 
-Discovering hop terroir is important because hops from all over are
-sent to processing facilities to be dried, bundled and sold
-together. That means that all the tasty regional differences of each
-hop variety are washed out by the time they get to the brewer. Imagine
-how boring it would be if you could only order “IPA” or “stout” and
-not choose from the thousands of beers produced by different
-breweries. That’s what it’s like for hops, with brewers choosing only
-“centennial” or “cascade” without being able to pick from different
-regions with their own unique flavours. Let’s change this.
- 
-We have developed a soil sensor system that measures temperature and
-moisture for both soil and air at different depths and heights,
-respectively. Each sensor has one base station with several nodes. We
-will collect data from many nodes, across several sensors within a
-farm at 5-minute intervals. This will give us a baseline for assessing
-growing conditions. We will know, at any given time, the temperature
-and moisture content of the air and soil throughout a farm. We will
-use these data in conjunction with data on farm management practices,
-soil chemistry, and soil microbial genetics to create a set of
-dependent variables for a predictive model of the environmental and
-management (farming) influences on hop yield and quality. Our
-dependent variables will be the weight of harvested hops per
-hectare/plant, quality of hops (measured by chemical analysis), and
-flavour (measured by brewing several beers using the exact same recipe
-and hop variety but from different regions and getting people to drink
-them and report back en-masse).
- 
-We want to be able to help farmers produce better hops so that
-breweries can make better beers, but we don’t want to have to build
-more sensors than is necessary to measure growing conditions on a
-farm. This is where we need your help. We are looking to develop an
-algorithm that will predict moisture and temperature between senor
-nodes. To do this effectively we will provide some additional
-data. This will include an elevation map of the farm and information
-on soil type and characteristics (e.g. water retention capacity and
-compaction)
- 
-Being able to predict farm conditions with fewer sensors will help
-this technology become more affordable to small-scale producers
-allowing more growers to make better and more unique hops so we can
-all enjoy great beer. Real-time environmental monitoring of farms will
-also help farmers of all crop types have access to a technology that
-will allow them to better understand their land and adapt their
-management practices in real-time (e.g. changing or automating
-irrigation and fertilizer schedules as needed, when needed).
- 
+Canada should be the world leader in coastline management. We have, by
+far, the longest coastline of any country and more lakes than the rest
+of the world combined. Communities from coast-to-coast-to-coast have
+been managing flood risks and supporting important ecosystems for
+generations, but much of this knowledge isn’t shared. This is because
+data often come with restrictions that limit sharing, and are in a
+format that requires expensive and specialized software to
+access. We’re trying to change that through an initiative called Smart
+Shores that provides high-resolution data and shares it with
+communities across BC in a range of formats so that it can be directly
+integrated into GIS applications and shared with the public in an
+interactive online format.
+
+We are using UAVs (drones) and a powerful RTK GPS unit to create
+ultra-high resolution maps of shorelines in BC. This allows us to map
+shorelines on-demand in fine detail, at low cost and on-demand. This
+means that we can track erosion, sediment transport and storm impacts,
+and quickly communicate the implications of this online for
+communities and ecosystems. Local governments can use this technology
+to assess coastal development and flood mitigation plans, communicate
+technical requirements to engineers and planners, and engage the
+public in planning for the future of their communities. Environmental
+not-for-profits can use it to show the results of their conservation
+efforts, and educators can have a powerful tool for teaching about
+coastal environments.
+
+We have developed a robust workflow for data collection, processing,
+and the creation of interactive real-world environments in virtual
+space. However, the interpretation of our data still requires manual
+processing to generate most of the value-added analysis that makes
+Smart Shores data useful to people. This increases the cost of our
+products and makes it more difficult for small communities and
+not-for-profits to take full advantage of this technology. This is
+where we need your help.
+
+One important feature of the ultra-high resolution data produced by
+Smart Shores is that it allows habitat and shoreline changes to be
+mapped at a scale that is useful for villages, towns and small but
+important coastal ecosystems. Identifying these changes requires that
+we can identify micro-habitats and substrate types so that we can
+measure how small stretches of coast change over time. The software we
+use for mapping can classify different types of landscape points, such
+as trees, buildings, rail lines and low vegetation. However, it cannot
+differentiate between sand, gravel, small rocks and large flat rocky
+surfaces. These materials make up a large portion of coastal areas and
+are important for evaluating erosion, wave run-up and habitat change.
+
+Coastal landscapes are constantly changing with sand moving daily,
+gravel moving after small-to-moderate storms and small rocks moving
+after larger storms. The result is that shorelines are changing every
+week, month and year. Our goal is to accurately measure these changes
+and create robust predictions for what our shorelines will look like
+as climate change continues to shape our coasts – and what the
+implications of this are for flooding and conservation. We are looking
+for an algorithm that will be able to classify sand, gravel, small
+rocks and large rocky surfaces from a point cloud. By developing a
+solution that will help us automate the classification of different
+substrates along our shores we will be able to provide powerful
+analytics at a low cost to small communities in rural areas and the
+local not-for-profits that help protect our environment.
+
 We look forward to the opportunity to work with you on this project.
