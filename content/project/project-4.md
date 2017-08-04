@@ -9,7 +9,7 @@ title = "High-Resolution Shoreline Data for Flood Protection and Environmental C
 summary = "Nathan Vadeboncoeur<br />Smart Shores"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "proj/smartsoil/hops.jpg"
+image_preview = "proj/smartshores/bc-coast.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "proj/smartsoil/hops-header.jpg"
+image = "proj/smartshores/bc-coast-banner.jpg"
 caption = "High-Resolution Shoreline Data for Flood Protection and Environmental Conservation Project Hop: Real-Time Agricultural Sensing."
 
 +++
