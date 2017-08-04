@@ -3,7 +3,7 @@
 date = "2017-06-14"
 
 # Project title.
-title = "High-Resolution Shoreline Data for Flood Protection and Environmental Conservation Project Hop: Real-Time Agricultural Sensing"
+title = "High-Resolution Shoreline Data for Flood Protection and Environmental Conservation"
 
 # Project summary to display on homepage.
 summary = "Nathan Vadeboncoeur<br />Smart Shores"
@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "proj/smartshores/bc-coast-banner.jpg"
-caption = "High-Resolution Shoreline Data for Flood Protection and Environmental Conservation Project Hop: Real-Time Agricultural Sensing."
+caption = "High-Resolution Shoreline Data for Flood Protection and Environmental Conservation."
 
 +++
 
