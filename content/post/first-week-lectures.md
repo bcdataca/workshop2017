@@ -1,6 +1,6 @@
 +++
-date = "2017-07-19T09:50:40-07:00"
-title = "Week 1: Basic Topics"
+date = "2017-08-14T09:00:00-07:00"
+title = "Week 1: Lecture Syllabus"
 tags = ["lectures", "classification", "regression", "neural network", "first-week", "hypothesis testing", "experimental design", "basic topics"]
 highlight = true
 math = false

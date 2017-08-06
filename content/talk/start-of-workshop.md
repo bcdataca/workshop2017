@@ -7,6 +7,7 @@ event = "BC Data Workshop"
 event_url = "#home"
 location = "ESB 2012"
 
+draft = true
 selected = false
 math = true
 

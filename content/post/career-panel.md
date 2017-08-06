@@ -1,7 +1,7 @@
 +++
 tags = ["career-panel", "industry", "mathematicians", "jobs", "career"]
 highlight = true
-date = "2017-06-14T15:09:09-07:00"
+date = "2017-08-16T18:08:08-07:00"
 title = "Career Panel: Mathematicians in Industry"
 math = false
 summary = """

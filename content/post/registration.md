@@ -1,6 +1,6 @@
 +++
 date = "2017-04-04T11:00:00"
-draft = false
+draft = true
 tags = ["registration", "workshop", "iam", "bcdata", "bc data"]
 title = "Registration"
 summary = """

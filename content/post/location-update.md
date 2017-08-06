@@ -4,7 +4,7 @@ title = "Workshop Location"
 tags = ["location", "Robson-Square", "downtown"]
 highlight = true
 math = false
-draft=false
+draft=true
 summary = """
 The bcdata workshop will take place at Robson Square in downtown Vancouver &mdash; a convenient location for industry members and UBC &amp; SFU students alike.
 """

@@ -31,6 +31,8 @@ workshop to cover background material in scientific computing, linear algebra,
 statistical methods and optimization. For more information, see the
 [pre-workshop description](./post/prequel-description).
 
+See below for a [detailed schedule](#schedule). 
+
 # Projects Overview
 
 There will be several data sets used in the workshop. We will add in the

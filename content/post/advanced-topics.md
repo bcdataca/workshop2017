@@ -1,5 +1,5 @@
 +++
-date = "2017-07-19T10:27:08-07:00"
+date = "2017-08-21T09:00:00-07:00"
 title = "Week 2: Advanced Topics"
 tags = ["compressed sensing", "machine learning", "dimension reduction", "gene expression", "genetics"]
 highlight = true

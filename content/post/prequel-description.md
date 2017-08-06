@@ -1,5 +1,5 @@
 +++
-date = "2017-04-03T12:00:00"
+date = "2017-08-09T08:30:00-07:00"
 draft = false
 tags = ["academic", "prequel", "description", "linear", "algebra", "scientific", "computing"]
 title = "IAM Short Course"

@@ -1,5 +1,5 @@
 +++
-date = "2017-04-04T10:00:00"
+date = "2017-08-25T19:00:00"
 draft = false
 tags = ["academic", "workshop", "description", "data", "science", "linear", "algebra", "scientific", "computing"]
 title = "The 2017 bcdata Data Science Workshop"
@@ -10,7 +10,7 @@ Continue reading for a full description of the workshop, a list of confirmed spe
 
 [header]
 image = "headers/bcdata_banner.jpg"
-caption = "The 2017 bcdata workshop in data science"
+caption = "The 2017 BC Data Science Workshop"
 
 +++
 
@@ -25,7 +25,7 @@ The first week of the workshop will cover
 lectures and afternoon hands-on [mini-projects](../mini-projects). The second week will cover
 [advanced topics in data science](../advanced-topics) through morning lectures
 hosted by a diverse range of professors; and 5 [week-long projects](../../#projects) in teams of
-10, each led by an industry mentor.
+10, each led by an industry mentor. A [first week schedule](../../talk/first-week-schedule) and [second week schedule](../../talk/second-week-schedule) are available. 
 
 Prior to the workshop will be a prequel workshop covering requisite aspects of
 elementary mathematics and programming that will be assumed as background. For
