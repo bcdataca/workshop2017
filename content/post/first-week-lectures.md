@@ -25,7 +25,7 @@ networks. Thursday's lecture by [Yinshan Zhao](http://epims.med.ubc.ca/our-team/
 design, while Friday's lecture by Michael Reid will showcase modern software
 tools for data scientists.
 
-For the first week schedule, please visit [this page](../../talk/first-week-schedule).
+For the first week schedule, please visit [this page](../../talk/first-week-schedule); and for first week notes, please visit the [GitHub repository](https://github.com/bcdataca/workshop-content/tree/master/1-first-week/notes) for the workshop.
 
 ## Syllabus
 

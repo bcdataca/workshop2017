@@ -21,9 +21,7 @@ title = "First week schedule"
 
 ## Schedule
 
-The first week material will take place downtown at the [UBC Robson Street](https://goo.gl/maps/bfi4kpC4ubM2) campus. Event rooms at this location will be clarified in the tables below. Though it should be straightforward to find event rooms, a [UBC Robson floor plan](http://robsonsquare2.sites.olt.ubc.ca/files/2010/08/UBC-Robson-Square-Floor-Plan.png) is available. The [lecture syllabus](../../post/first-week-lectures) provides more detailed information on the material covered in first week lectures.
-
-Check back here (or on the syllabus page) throughout the week for updated information on lecture and exericse material.
+The first week material will take place downtown at the [UBC Robson Street](https://goo.gl/maps/bfi4kpC4ubM2) campus. Event rooms at this location will be clarified in the tables below. Though it should be straightforward to find event rooms, a [UBC Robson floor plan](http://robsonsquare2.sites.olt.ubc.ca/files/2010/08/UBC-Robson-Square-Floor-Plan.png) is available. The [lecture syllabus](../../post/first-week-lectures) provides more detailed information on the material covered in first week lectures, and the [GitHub repository](https://github.com/bcdataca/workshop-content/tree/master/1-first-week/notes) for the workshop contains lecture notes and associated materials. 
 
 ### Day 1: Monday August 14
 

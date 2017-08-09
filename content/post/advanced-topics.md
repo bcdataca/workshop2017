@@ -16,7 +16,7 @@ Information on the material comprising the mornings of the second week. These ad
 
 # Description
 
-In the mornings of the second week of the workshop, we will host advanced lectures on topics pertaining to data science. These talks are expected to be more academic in nature, showcasing research and research tools used by professors in either academia or industry. Speaker bios and abstracts can be found below. 
+In the mornings of the second week of the workshop, we will host advanced lectures on topics pertaining to data science. These talks are expected to be more academic in nature, showcasing research and research tools used by professors in either academia or industry. Speaker bios and abstracts can be found below. For lectures notes and other materials, please visit the [GitHub repository](https://github.com/bcdataca/workshop-content/tree/master/2-second-week/notes) for the workshop. 
 
 
 # Talks

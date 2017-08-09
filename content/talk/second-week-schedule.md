@@ -21,9 +21,7 @@ abstract_short = ""
 
 ## Schedule
 
-The second week material will take place downtown at the [UBC Robson Street](https://goo.gl/maps/bfi4kpC4ubM2) campus. Event rooms at this location will be clarified in the tables below. Though it should be straightforward to find event rooms, a [UBC Robson floor plan](http://robsonsquare2.sites.olt.ubc.ca/files/2010/08/UBC-Robson-Square-Floor-Plan.png) is available. For more information on the advanced lecture material, visit the abstracts linked to in the schedule below.
-
-Check back here throughout the week for updated information on advanced lecture material and group presentation order.
+The second week material will take place downtown at the [UBC Robson Street](https://goo.gl/maps/bfi4kpC4ubM2) campus. Event rooms at this location will be clarified in the tables below. Though it should be straightforward to find event rooms, a [UBC Robson floor plan](http://robsonsquare2.sites.olt.ubc.ca/files/2010/08/UBC-Robson-Square-Floor-Plan.png) is available. For more information on the advanced lecture material, visit the abstracts linked to in the schedule below. For lecture notes and associated materials, visit the [GitHub repository](https://github.com/bcdataca/workshop-content/tree/master/2-second-week/notes) for the workshop.
 
 
 ### Day 1: Monday August 21
