@@ -49,11 +49,4 @@ This workshop will give students experience with data science tools &mdash;
 such as working with large data sets, statistical inference, and machine
 learning &mdash; that will be helpful in their research, as well as in their
 career options after graduation. For more information on workshop content,
-visit the [posts](#posts) section or see below for additional information.
-
-# Register
-
-Complete [this form](https://goo.gl/forms/dowiyIBurStIvvEq1) to register for
-the bcdata Data Science workshop (14&ndash;25 Aug) and the optional
-pre-workshop on software carpentry and linear algebra basics (9&ndash;11 Aug).
-
+visit the [posts](#posts) section, [schedule](#schedule), or see [below](#info) for additional information.

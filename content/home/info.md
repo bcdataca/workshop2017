@@ -23,15 +23,17 @@ examples data sets for mini-projects. Each data set will lead to a capstone
 project in the second week.
 
 Computational work will be done with Jupyter notebooks using
-[syzygy.ca](https://ubc.syzygy.ca). Participants will have the opportunity to
-work with big data, and learn subsequent analysis motifs using machine learning, data clustering, parameter fitting, and other techniques. 
+[bcdata.syzygy.ca](https://bcdata.syzygy.ca). Participants will have
+the opportunity to work with big data, and learn subsequent analysis
+motifs using machine learning, data clustering, parameter fitting, and
+other techniques.
 
 There will be a short course in linear algebra and software tools prior to the
 workshop to cover background material in scientific computing, linear algebra,
 statistical methods and optimization. For more information, see the
 [pre-workshop description](./post/prequel-description).
 
-See below for a [detailed schedule](#schedule). 
+See below for a [detailed schedule](#schedule). Lecture notes and workshop materials can be found on the [associated GitHub repository](https://github.com/bcdataca/workshop-content). 
 
 # Projects Overview
 

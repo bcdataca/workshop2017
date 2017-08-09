@@ -20,17 +20,25 @@ This workshop will host 50 graduate students in mathematics and interested
 industry members for a two week foray into foundational and crucial elements of
 the rapidly expanding field of data science.
 
-The first week of the workshop will cover
-[introductory data science](../first-week-lectures) material through morning
-lectures and afternoon hands-on [mini-projects](../mini-projects). The second week will cover
-[advanced topics in data science](../advanced-topics) through morning lectures
-hosted by a diverse range of professors; and 5 [week-long projects](../../#projects) in teams of
-10, each led by an industry mentor. A [first week schedule](../../talk/first-week-schedule) and [second week schedule](../../talk/second-week-schedule) are available. 
+Prior to the workshop will be a [prequel workshop](../prequel-description) covering requisite aspects of
+elementary mathematics and programming that will be assumed as background.
 
-Prior to the workshop will be a prequel workshop covering requisite aspects of
-elementary mathematics and programming that will be assumed as background. For
-more information on the pre-workshop, see [this post](../prequel-description). 
+The first week of the workshop will kick-off on Monday morning, 8:30
+AM, with a catered breakfast at the main location, [UBC Robson
+Square](https://goo.gl/maps/13QmETxJY5C2). The first week will cover
+[introductory data science](../first-week-lectures) material through
+morning lectures and afternoon hands-on
+[mini-projects](../mini-projects). There will also be a [career
+panel](../career-panel) on Wednesday August 16.
 
-Then, the workshop will kick-off on Monday morning, 8:30 AM, with a catered
-breakfast at the main location,
-[UBC Robson Square](https://goo.gl/maps/13QmETxJY5C2).
+The second week will cover [advanced topics in data
+science](../advanced-topics) through morning lectures hosted by a
+diverse range of professors; and 5 [week-long
+projects](../../#projects) in teams of 10, each led by an industry
+mentor.
+
+A [first week schedule](../../talk/first-week-schedule) and [second
+week schedule](../../talk/second-week-schedule) are available. For
+lecture notes, code and other workshop materials, please visit the
+[associated GitHub repository](https://github.com/bcdataca/workshop-content).
+
