@@ -26,15 +26,15 @@ The second week material will take place downtown at the [UBC Robson Street](htt
 
 ### Day 1: Monday August 21
 
-| Start |  End  | Location | Title |
-| ----- | ----- | -------- | ----- |
-| 10:00 | 11:00 | C680 | Industry Mentor Presentation |
-| 11:00 | 12:00 | C680 | Industry Mentor Presentation |
+| Start |  End  | Location | Title | Speaker |
+| ----- | ----- | -------- | ----- | ------- |
+| 10:00 | 11:00 | C680 | Industry Mentor Presentation | [Soyean Kim](http://localhost:1313/2017/project/project-2/) |
+| 11:00 | 12:00 | C680 | Industry Mentor Presentation | [Roger Donaldson](http://localhost:1313/2017/project/project-1/) |
 | 12:00 | 13:30 |      | Lunch |
-| 13:30 | 14:30 | C680 | Industry Mentor Presentation |
-| 14:30 | 15:30 | C680 | Industry Mentor Presentation |
+| 13:30 | 14:30 | C680 | Industry Mentor Presentation | [Nathan Vadeboncoeur](http://localhost:1313/2017/project/project-4/) |
+| 14:30 | 15:30 | C680 | Industry Mentor Presentation | [Borhan Sanandaji](http://localhost:1313/2017/project/project-5/) |
 | 15:30 | 16:00 |  | Coffee Break |
-| 16:00 | 17:00 | C680 | Industry Mentor Presentation |
+| 16:00 | 17:00 | C680 | Industry Mentor Presentation | [Cory Simon](http://localhost:1313/2017/project/project-3/) |
 
 ### Day 2: Tuesday August 22
 
