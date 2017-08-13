@@ -28,6 +28,8 @@ caption = "High-Resolution Shoreline Data for Flood Protection and Environmental
 
 +++
 
+### Mentor: Nathan Vadeboncoeur
+
 ## Summary
 
 Canada should be the world leader in coastline management. We have, by

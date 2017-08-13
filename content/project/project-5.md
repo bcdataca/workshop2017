@@ -14,7 +14,9 @@ date = "2017-08-06T11:33:44-07:00"
 
 +++
 
-## Description
+### Mentor: Borhan Sanandaji
+
+## Summary
 
 * **Idea 1:** Characterize and visualize the make/model/year distribution in the dataset; extend this by characterizing the conditional distribution over the geographical span of the dataset.
 

@@ -27,6 +27,8 @@ caption = "Compressed bitrate analysis project. "
 
 +++
 
+### Mentor: Roger Donaldson, Midvale Applied Mathematics
+
 ## Summary
 
 Despite our hand in their design, and hence their seemingly deterministic

@@ -33,6 +33,8 @@ caption = "Data-driven genomics project"
 +++
 
 
+### Mentor: Cory Simon
+
 ## Summary
 
 Different cell types in humans possess approximately the same genome despite
