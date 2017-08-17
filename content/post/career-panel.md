@@ -48,3 +48,15 @@ complementary food and beverage.
 * **Zak Islam**  
   Sr. Manager, AWS Messaging at Amazon Web Services
 
+## Career panel takeaways
+
+A collection of resources mentioned by the panelists that could be
+useful to those contemplating industry.
+
+* [Data for Good](https://www.meetup.com/DataforGood-Vancouver/about/)
+  (Vancouver Chapter)
+* [The Lean Startup](http://theleanstartup.com/) was recommended by
+  Zak as a good book for business-related material important for
+  consultancy and startups.
+* Brian Wetton offered resources to IAM students for new indepedent
+  group projects.
