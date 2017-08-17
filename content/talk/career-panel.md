@@ -19,22 +19,26 @@ abstract_short = ""
 
 +++
 
+
+## Career panel at Mobify
+
+{{< youtube ctOFh51xzmM >}}
+
 ## Summary
 
-Join us on the evening of August 16th for a career panel and social
-for mathematicians who are contemplating non-academic career
-options.
+On the evening of August 16th, BC Data Science workshop participants
+gathered at [Mobify headquarters](https://goo.gl/maps/aVGFmNH1huB2)
+for a career panel and social event. The panel discussed non-academic
+career options for mathematicians; how mathematicians should prepare
+for industry jobs and job interviews; and what differences to expect
+in industry. More broadly, the panelists discussed career success,
+personal values, and strategies for achieving career-oriented goals.
 
-The panel includes recent graduates in mathematics/statistics now working in
-industry, as well as a senior manager at Amazon who interfaces with &mdash; and
-hires &mdash; mathematicians and computer scientists. The Q&amp;A session will
-be followed by a social with complementary food and beverage.
-
-This event will be held at the Mobify headquarters downtown, nearly
-adjacent to UBC Robson Square. Please [click
-here](https://goo.gl/maps/aVGFmNH1huB2) for a map.
-
-
+The panel included recent graduates in mathematics/statistics now
+working in industry, as well as a senior manager at Amazon who
+interfaces with &mdash; and hires &mdash; mathematicians and computer
+scientists. The Q&amp;A session was followed by a lively social with
+complementary food and beverage.
 
 ## Our panelists
 
@@ -48,10 +52,3 @@ here](https://goo.gl/maps/aVGFmNH1huB2) for a map.
   Data Scientist, Absolute Software
 * **Zak Islam**  
   Sr. Manager, AWS Messaging at Amazon Web Services
-* **Peter Gorniak**, Ph.D. (MIT)  
-  Co-founder &amp; CSO, Tideline Data
-
-
-## More details
-
-See the [panel post](./../../post/career-panel) for more details. 

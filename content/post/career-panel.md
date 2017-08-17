@@ -15,21 +15,25 @@ options.
 
 +++
 
+## Career panel at Mobify
+
+{{< youtube ctOFh51xzmM >}} 
+
 ## Summary
 
-Join us on **August 16th at 6:00 PM** for a career panel and reception/buffet
-for mathematicians who are contemplating non-academic career
-options.
+On the evening of August 16th, BC Data Science workshop participants
+gathered at [Mobify headquarters](https://goo.gl/maps/aVGFmNH1huB2)
+for a career panel and social event. The panel discussed non-academic
+career options for mathematicians; how mathematicians should prepare
+for industry jobs and job interviews; and what differences to expect
+in industry. More broadly, the panelists discussed career success,
+personal values, and strategies for achieving career-oriented goals.
 
-The panel includes recent graduates in mathematics/statistics now working in
-industry, as well as a senior manager at Amazon who interfaces with (and
-hires!)  mathematicians and computer scientists. The discussion will be
-moderated by Lee Rippon, a graduate student at UBC.
-
-The Q&amp;A session will be followed by a reception and buffet dinner
-from 7:00 PM to 9:00 PM. Students and industry members will have a
-chance to mingle and share their unique perspectives while they enjoy
-complementary beverages.
+The panel included recent graduates in mathematics/statistics now
+working in industry, as well as a senior manager at Amazon who
+interfaces with &mdash; and hires &mdash; mathematicians and computer
+scientists. The Q&amp;A session was followed by a lively social with
+complementary food and beverage.
 
 ## Our panelists
 
@@ -43,11 +47,4 @@ complementary beverages.
   Data Scientist, Absolute Software
 * **Zak Islam**  
   Sr. Manager, AWS Messaging at Amazon Web Services
-* **Peter Gorniak**, Ph.D. (MIT)  
-  Co-founder &amp; CSO, Tideline Data
 
-## Location
-
-This event will be held at the Mobify headquarters downtown, 18:00
-&ndash; 21:00. Conveniently, their HQ is nearly adjacent to Robson
-Square. Please [click here](https://goo.gl/maps/aVGFmNH1huB2) to view it on Google maps.
