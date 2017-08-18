@@ -61,4 +61,4 @@ useful to those contemplating industry.
 * Brian Wetton offered resources to IAM students for new indepedent
   group projects.
 
-For a **very useful** and developed (esp. for UBC students) list of takeaways and other notes, see Curt da Silva's [BCDataTakeaways readme](workshop-content/1-first-week/mini-projects/2-matrix-completion/).
+For a **very useful** and developed (esp. for UBC students) list of takeaways and other notes, see Curt da Silva's [BCDataTakeaways readme](https://github.com/curtd/BCDataTakeaways/blob/master/README.md).
