@@ -51,3 +51,5 @@ Firstly, we will discuss the purpose of hypothesis testing and learn how to do i
 
 ### Modern Software Tools for Data Scientists.
 This lecture will cover the “plumbing” of data science — the software used for data ingestion, cleaning, storage, and analysis. We will provide an overview of the tools currently used by enterprises ingesting hundreds of thousand events per second and handling petabytes of data. Attendees will have a hands-on introduction to the machine learning tools used in industry, including distributed processing with AWS and Apache Spark. We also look into the future at the new generation of native stream processing platforms, used for real-time machine learning.
+
+Slides from this lecture are [available here](https://github.com/bcdataca/workshop-content/raw/master/1-first-week/5-software-tools/Software%20Tools%20in%20Data%20Science%20Presentation.pptx).
