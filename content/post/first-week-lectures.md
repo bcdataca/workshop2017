@@ -37,14 +37,22 @@ tools in practice (using scikit-learn). We introduce classification in contrast
 to regression, and discuss key metrics like accuracy, precision and recall. We
 talk about the Logistic Regression classifier and show a short code example.
 
+Notes and Jupyter notebooks for this content are available on the [Github repository](https://github.com/bcdataca/workshop-content/tree/master/1-first-week/1-regression-classification).
+
 ### Important classifiers.
 The classifiers Decision Trees and K-Nearest-Neighbours will be covered, as
 well as ensemble methods like Bagging and Random Forests. In a short code
 example the application of the classifiers is demonstrated (scikit-learn).
 
+Notes and Jupyter notebooks for this content are available on the [Github repository](https://github.com/bcdataca/workshop-content/tree/master/1-first-week/2-important-classisfiers).
+
+
 ### Neural Networks.
 This lecture is about Neural Networks with various add-ons, as well as feature
 engineering and a short code example in TensorFlow.
+
+Notes and Jupyter notebooks for this content are available on the [Github repository](https://github.com/bcdataca/workshop-content/tree/master/1-first-week/3-neural-networks).
+
 
 ### Hypothesis testing and experimental design.
 Firstly, we will discuss the purpose of hypothesis testing and learn how to do it. Through examples, we will introduce basic concepts, testing procedures, common misinterpretations and connection between hypothesis testing and estimation. Then we will discuss statistical considerations in study designs, such as sampling, controls, randomization, sample size and power. Finally, we will look into multiple testing procedures. 
