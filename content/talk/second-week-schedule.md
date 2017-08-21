@@ -31,11 +31,11 @@ The second week material will take place downtown at the [UBC Robson Street](htt
 | 10:20 | 10:24 | Outside  | [Solar eclipse!](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21%2C_2017) | 
 | 10:30 | 11:30 | C680 | Industry Mentor Presentation | [Soyean Kim](../../project/project-2/) |
 | 11:30 | 12:30 | C680 | Industry Mentor Presentation | [Nathan Vadeboncoeur](../../project/project-4/) |
-| 12:30 | 14:00 |      | Lunch |
-| 14:00 | 15:00 | C680 | Industry Mentor Presentation | [Roger Donaldson](../../project/project-1/) |
-| 15:00 | 16:00 | C680 | Industry Mentor Presentation | [Borhan Sanandaji](../../project/project-5/) |
-| 16:00 | 16:30 |  | Coffee Break |
-| 16:30 | 17:30 | C680 | Industry Mentor Presentation | [Cory Simon](../../project/project-3/) |
+| 12:30 | 13:30 |      | Lunch |
+| 13:30 | 14:30 | C680 | Industry Mentor Presentation | [Roger Donaldson](../../project/project-1/) |
+| 14:30 | 15:30 | C680 | Industry Mentor Presentation | [Borhan Sanandaji](../../project/project-5/) |
+| 15:30 | 16:00 |  | Coffee Break |
+| 16:00 | 17:00 | C680 | Industry Mentor Presentation | [Cory Simon](../../project/project-3/) |
 
 ### Day 2: Tuesday August 22
 
