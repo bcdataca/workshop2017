@@ -68,10 +68,10 @@ The second week material will take place downtown at the [UBC Robson Street](htt
 | ----- | ----- | -------- | ----- | ------- | ----------- |
 | 09:00 | 12:00 | C010, C671, C673, C675, C677 | Capstone Group Projects |
 | 12:00 | 13:30 | | Lunch |
-| 13:30 | 14:00 | C680 | Project Presentation: BC Safety Authority Group |
-| 14:00 | 14:30 | C680 | Project Presentation: Smart Shores Group |
-| 14:30 | 15:00 | C680 | Project Presentation: Midvale Group |
+| 13:30 | 14:00 | C680 | Group Project Presentation | BC Safety Authority | A Risk-Based Platform for Accident Prevention | 
+| 14:00 | 14:30 | C680 | Group Project Presentation | Smart Shores | High-Resolution Shoreline data for Flood Protection and Environmental Conservation |
+| 14:30 | 15:00 | C680 | Group Project Presentation | Midvale | Data-Driven Modeling of Video Compression | 
 | 15:00 | 15:30 |  | Coffee Break |
-| 15:30 | 16:00 | C680 | Project Presentation: Mojio Group |
-| 16:00 | 16:30 | C680 | Project Presentation: Altius Group |
+| 15:30 | 16:00 | C680 | Group Project Presentation | Mojio | Data Insights from Vehicle Time Series Messages |
+| 16:00 | 16:30 | C680 | Group Project Presentation | Altius Institute | Elucidating Enhancer-Promoter Gene Expression Using ConvNets |
 | 17:00 | 19:00 | | Reception |
